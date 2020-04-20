@@ -1,0 +1,19 @@
+{
+  "name": "tme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dora Belme",
+  "license": "ISC",
+  "bin": {
+    "tme": "index.js"
+  },
+  "homepage": "https://github.com/dorabelme/Testing-Framework#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
