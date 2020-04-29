@@ -5,7 +5,7 @@ Node-based CLI framework, able to test browser-based JS apps built from scratch.
 ## Short demo:
 
 <p align ="center">
-<img src="./testing_framework.gif" alt="testing tool app example">
+<img src="./testing.gif" alt="testing tool app example">
 </p>
 
 ## Tech Stack
